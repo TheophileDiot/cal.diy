@@ -1,0 +1,22 @@
+packages/app-store/ics-feedcalendar/lib/CalendarService.test.ts
+  s_37b0228d9ad727::t_71ce4b7a07860f 1-121
+  s_37b0228d9ad727::t_64b7430e365062 122-176
+packages/app-store/ics-feedcalendar/lib/CalendarService.ts
+  s_37b0228d9ad727::t_e34a805289120b 41-72,248,256,299
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "109ec9501a8b862f264c8d3c217919895f4818ee",
+  "prompts": {},
+  "sessions": {
+    "s_37b0228d9ad727": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "169dccd5-858b-47e4-b660-6ceea95a20a5",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "TheophileDiot <tdiot@bunkerity.com>"
+    }
+  }
+}
